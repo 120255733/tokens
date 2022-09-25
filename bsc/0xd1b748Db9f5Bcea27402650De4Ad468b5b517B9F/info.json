@@ -1,0 +1,21 @@
+{
+
+"name": "buying coins Token",
+
+"website": "http://buyingcoins.cn/",
+
+"description": "We provide a fully operational blockchain e-commerce platform for users around the world. It plans to leverage blockchain technology to ensure a seamless shopping experience.Buying coins is a blockchain e-commerce platform developed based on Bsc chain, providing shopping, wallet, NFT, social networking, live broadcasting, game item trading and other services.",
+
+"explorer": "https://bscscan.com/token/0xd1b748Db9f5Bcea27402650De4Ad468b5b517B9F",
+
+"type": "BEP20",
+
+"symbol": "BC",
+
+"decimals": 18,
+
+"status": "active",
+
+"id": "0xd1b748Db9f5Bcea27402650De4Ad468b5b517B9F"
+
+}
